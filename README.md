@@ -1,3 +1,7 @@
+🏆 Team project built at ETHGlobal Cannes 2026. Original repository: https://github.com/mathildebretesche/SilentLedger
+
+
+
 # Silent Ledger
 
 > **Proof of Intelligence** - Transform your Web2 contributions into anonymous on-chain attestations via zkTLS
