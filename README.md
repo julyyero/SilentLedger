@@ -1,4 +1,4 @@
-🏆 Team project built at ETHGlobal Cannes 2026. Original repository: https://github.com/mathildebretesche/SilentLedger
+🏆 Team project built at ETH Denver 2026. Original repository: https://github.com/mathildebretesche/SilentLedger
 
 
 
